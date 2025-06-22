@@ -1,4 +1,4 @@
-# Waste2Give - Food Rescue Platform
+# Plate-Two-Plate
 
 A platform connecting businesses with excess food to shelters and food banks.
 
